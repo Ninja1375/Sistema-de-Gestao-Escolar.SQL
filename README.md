@@ -18,4 +18,4 @@ Este projeto consiste em um Sistema de Gestão Escolar em SQL. Ele cobre algumas
 
 ## linguagem Utilizada ##
 
-<a href="https://programartudo.blogspot.com/2024/05/sql-significado-e-funcionalidade.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" height="70"/></a>
+<a href="https://programartudo.blogspot.com/2024/11/sql-manipulacao-e-gerenciamento-de-dados.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" height="70"/></a>
