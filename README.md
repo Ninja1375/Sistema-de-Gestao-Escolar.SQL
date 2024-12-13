@@ -16,6 +16,6 @@ Este projeto consiste em um Sistema de Gestão Escolar em SQL. Ele cobre algumas
 
 **Tabela Presencas:** Controla as presenças e ausências dos alunos em cada turma, com status de presença.
 
-## linguagem Utilizada ##
+## linguagem Utilizada
 
 <a href="https://programartudo.blogspot.com/2024/11/sql-manipulacao-e-gerenciamento-de-dados.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" height="70"/></a>
